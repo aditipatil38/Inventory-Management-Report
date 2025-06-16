@@ -34,7 +34,7 @@
 <br>
 <div align="center">
   <strong>Current Inventory Status</strong><br>
-  <img src="inventory/1.1.gif" style="width: 50%; height: auto; >
+  <img src="inventory/1.1.gif" style="width: 50%; height: auto;" >
 </div>
 <p align="center">
   <table>
