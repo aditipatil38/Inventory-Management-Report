@@ -219,3 +219,9 @@
 <p>
 This inventory analytics report unifies operational, customer, and environmental insights into a single, data-driven view of supply chain performance. By integrating demand forecasting metrics, supplier performance indicators, and stock-level intelligence, it empowers decision-makers to minimize inventory risks, enhance fulfillment reliability, and drive continuous inventory optimization across the supply chain.
 </p>
+
+---
+
+This project is licensed under the [Creative Commons License](LICENSE).
+
+---
